@@ -1,5 +1,5 @@
 # 3D-Desaign_Portofolio
-##Tech
+## Tech
 ** React js
 ** Tailwind
 ** React Three js
